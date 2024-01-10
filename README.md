@@ -18,3 +18,5 @@ Customize your preferences to receive tailored recommendations, ensuring an expe
 EasyBook is built on a robust framework that prioritizes user experience, security, and engagement. Whether you're a user seeking new discoveries or an entrepreneur wanting to showcase your offerings, Listify caters to your needs, fostering a dynamic community of exploration and collaboration.
 
 Technologies Used: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, JWT Authentication.
+
+Here is the link of website:- https://easybook.onrender.com/listings
