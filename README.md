@@ -1,22 +1,46 @@
-# EasyBok
+# EasyBook 🚀
 
-Title: "EasyBook"
+**EasyBook** is an all-in-one web application designed to revolutionize how users explore, create, and review listings. It provides a seamless interface for discovering diverse listings and contributing your own.
 
-Description:
-Welcome to EasyBook, the all-in-one web application designed to revolutionize how you explore, create, and review listings! EasyBook offers a seamless interface where users can not only discover a diverse array of listings but also contribute by creating their own personalized listings. By signing in, users unlock the full potential of Listify, gaining access to a host of features, including:
+## Features
 
-Explore Listings:
-Browse through a curated collection of diverse listings covering various categories and interests.
+- **Explore Listings:** Browse curated listings across multiple categories.  
+- **Create Your Listings:** Share your unique listings or services with ease.  
+- **Review & Feedback:** Provide reviews and ratings to foster a community-driven platform.  
+- **Personalized Experience:** Get tailored recommendations based on your preferences.  
 
-Create Your Listings:
-Share your unique listings, or services effortlessly with our intuitive listing creation tool.
+## Technologies Used
 
-Review & Feedback: Share your experiences by providing insightful reviews and ratings for listings, fostering a community-driven platform for quality assessment.
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT Authentication  
 
-Personalized Experience:
-Customize your preferences to receive tailored recommendations, ensuring an experience that suits your interests.
-EasyBook is built on a robust framework that prioritizes user experience, security, and engagement. Whether you're a user seeking new discoveries or an entrepreneur wanting to showcase your offerings, Listify caters to your needs, fostering a dynamic community of exploration and collaboration.
+## Demo
 
-Technologies Used: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, JWT Authentication.
+[Live Website](https://easybook.onrender.com/listings)
 
-Here is the link of website:- https://easybook.onrender.com/listings
+## Installation
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/anjali012005/EasyBook.git
+   ```
+Navigate to the project folder:
+
+```bash
+cd EasyBook
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+Open http://localhost:3000 in your browser.
